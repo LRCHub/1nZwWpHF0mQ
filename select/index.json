@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Harunanshiki",
+  "base_artist": "稻葉曇",
+  "createdAt": "2026-03-29T06:08:53.289163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harunanshiki",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_Harunanshiki_稲葉曇.lrc"
+    }
+  ]
+}
